@@ -1,0 +1,11 @@
+Board game data organization by designer, mechanic, genre, which was NOT done for PREP capstone project:
+
+#dfdesigner = []
+#for row in df.designer:
+#    if row != '(Uncredited)' or row != 'none':
+#        dfdesigner.append(row)
+#dfdesigner = df[(df.designer != '(' + 'Uncredited' + ')') | (df.designer != 'none')]
+# Meh, at least I know I tried everything...
+
+#dfdesigner = dfdesigner.groupby('designer').geek_rating.mean().reset_index()
+#dfdesigner = dfdesigner.sort_values(by=['geek_rating'], ascending=False)

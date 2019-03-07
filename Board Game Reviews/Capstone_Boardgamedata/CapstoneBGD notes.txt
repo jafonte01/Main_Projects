@@ -1,0 +1,3 @@
+Slight correlations under dfsubset for rating and weight, rating and ownership, rating and avg_time,
+
+rating and year after 1979 has significant 
